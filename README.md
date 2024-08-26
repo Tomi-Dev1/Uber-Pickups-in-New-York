@@ -8,7 +8,7 @@ This project analyzes Uber pickups in New York City for the years 2014 and 2015.
 To install and run this project, clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Tomi-Dev1/Uber-Pickups-in-New-York.git>
 ```
 
 ## Usage
