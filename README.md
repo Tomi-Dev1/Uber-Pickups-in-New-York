@@ -24,4 +24,4 @@ If you would like to contribute to this project, please contact me at similoluwa
 This project is licensed under the MIT License.
 ```
 
-Feel free to replace `<repository-url>` with the actual URL of your repository and `[your-email@example.com]` with your email address. Let me know if there's anything else you'd like to add or modify!
+
